@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="80x_qwen_7b_minecraft.gif" alt="gif" width="400"> <img src="breakout.gif" alt="gif" width="400">
 
-<!--
-**BarryFutureman/BarryFutureman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="flying_over_paris.gif" alt="gif" width="400"> <img src="pinksquare.gif" alt="gif" width="400">
 
-Here are some ideas to get you started:
+<img src="little_ai_deep_thoughts.gif" alt="gif" width="400"> <img src="neat.gif" alt="gif" width="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="push_cube.gif" alt="gif" width="400"> <img src="soccer_cubes.gif" alt="gif" width="400">
+
+<img src="vr_classroom.gif" alt="gif" width="400"> <img src="cat.gif" alt="gif" width="400">
+
+<img src="fnn.gif" alt="gif" width="400"> <img src="roll_bot.gif" alt="gif" width="400">
+
+<img src="game.gif" alt="gif" width="400"> <img src="blender_flash.gif" alt="gif" width="400">
+
+<img src="bvs.gif" alt="gif" width="400">
+
